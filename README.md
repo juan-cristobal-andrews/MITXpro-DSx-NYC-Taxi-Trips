@@ -1,2 +1,2 @@
-# MITXpro-DSx-CS6-NYC-Taxi-Trips
+# MITx Pro: Case Study 6.1 - NYC Taxi Trips
 New York City Taxi Ride Duration Prediction
